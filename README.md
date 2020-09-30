@@ -8,4 +8,4 @@
 # Dependecies 
 Numpy
 
-# Note: Please refer to the Document_VAE.pdf for technical details.
+Note: Please refer to the Document_VAE.pdf for technical details.
